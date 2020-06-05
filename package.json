@@ -1,10 +1,10 @@
 {
-  "name": "formik-persist",
+  "name": "formik-persist-yoyota-fork",
   "description": "Persist and rehydrate a Formik form",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "license": "MIT",
   "author": "Jared Palmer <jared@palmer.net>",
-  "repository": "jaredpalmer/formik-persist",
+  "repository": "yoyota/formik-persist",
   "keywords": [
     "formik",
     "react",
